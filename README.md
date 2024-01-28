@@ -9,15 +9,15 @@ pip install -r requirements.txt
 
 ## Step 1
 
-使用facefusion先换脸
+使用facefusion先换脸，请参考facefusion的实现:
 
 ```
 git clone https://github.com/facefusion/facefusion
 ```
 然后按照readme运行。
 
-# Step 2
-使用CPM 换妆和装饰物.
+## Step 2
+使用CPM 换妆和装饰物，请参考CPM的实现:
 
 ```
 git clone https://github.com/VinAIResearch/CPM.git
