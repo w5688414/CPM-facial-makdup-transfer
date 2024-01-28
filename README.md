@@ -1,4 +1,4 @@
-# CPM-facial-makdup-transfer
+# CPM-facial-makeup-transfer
 以下是一个使用CPM换妆和装饰物的demo
 
 ## 依赖
